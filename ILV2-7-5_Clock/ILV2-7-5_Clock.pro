@@ -1,4 +1,4 @@
-update=Wednesday, November 08, 2017 'PMt' 06:00:35 PM
+update=Wednesday, November 15, 2017 'PMt' 06:17:06 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=OpenBCI
 LibName31=Solutions
 LibName32=Tympan
 LibName33=OpenBCI_KiCad_library_files/OpenBCI
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
