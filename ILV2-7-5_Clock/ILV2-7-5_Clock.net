@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Users/joelmurphy/Documents/KiCad/VFD Clock/ILV2-7-5_VFD_Display/ILV2-7-5_Clock/ILV2-7-5_Clock.sch")
-    (date "Monday, November 20, 2017 'PMt' 03:37:11 PM")
+    (date "Monday, November 20, 2017 'PMt' 05:13:12 PM")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -323,7 +323,7 @@
       (tstamp 5A07BEE7))
     (comp (ref L1)
       (value "10uH 1.2A")
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitors_SMD:C_1210)
       (libsource (lib device) (part L))
       (sheetpath (names /) (tstamps /))
       (tstamp 5A08028C))
