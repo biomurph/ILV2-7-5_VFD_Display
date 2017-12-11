@@ -14,5 +14,11 @@ The other thing that I changed is the oscillator that Callum used to drive the C
 
 There's two pushbuttons for interfacing and an LED for control and user feedback. I'm using the same [DS3231](https://www.maximintegrated.com/en/products/digital/real-time-clocks/DS3231.html) that Callum uses, and also the [MAX6920](https://www.maximintegrated.com/en/products/power/display-power-control/MAX6920.html) for the high voltage SIPO to drive the segments.
 
-It's pretty basic beyond that. The power supply is based on the Dogbone, and I have a V-divider set up as a battery level sensor that the PIC can read. 
+It's pretty basic beyond that. The power supply is based on the Dogbone, but I'm using a 3V0 regulator instead of a 3V3 and I have a V-divider set up as a battery level sensor that the PIC can read. 
+
+* Maximum input Voltage 6V
+* Minimum input Voltage 3.0V
+* Current with VFD DISABLED ~26mA
+* Current with VFD ENABLED showing all 8s ~150mA
+
 
