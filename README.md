@@ -40,5 +40,6 @@ Press Switch 1 again to go back to the time display.
 
 # Power & Charging
 
-The thing runs on a high capacity LiPo battery. Plug it into a micro USB cable for charging. You can also program the PIC through the USB connection if you want to.
+Switch 4 is the reset switch to the PIC. When you press it, the micro-contoller resets. It will start in 24 hour mode.
 
+The thing runs on a high capacity LiPo battery. Plug it into a micro USB cable for charging. You can also program the PIC through the USB connection if you want to.
