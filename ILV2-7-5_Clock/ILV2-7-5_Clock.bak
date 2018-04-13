@@ -1695,6 +1695,6 @@ F 3 "" H 9950 1750 50  0001 C CNN
 $EndComp
 Text Notes 4150 2600 0    62   ~ 0
 18\n0\n1\n2\n3\n4\n5\n6/A0\n7/A1\n8/A2\n
-Text Notes 1450 2650 0    62   ~ 0
+Text Notes 1450 2600 0    62   ~ 0
 9/A3\n10/A4\n11/A5\n12/A6\n13/A7\n14/A8\n15\n16\n17
 $EndSCHEMATC
