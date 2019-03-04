@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ILV2-7-5_Clock)(type Legacy)(uri ${KIPRJMOD}/Library/ILV2-7-5_Clock.lib)(options "")(descr ""))
+  (lib (name Solutions)(type Legacy)(uri ${KIPRJMOD}/Library/Solutions.lib)(options "")(descr ""))
+)
