@@ -1,0 +1,222 @@
+Info: Checking netlist symbol footprint “BT1:/5A063A3F:Solutions:12BH062-GR”.
+
+Info: Checking netlist symbol footprint “C1:/5A064980:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C2:/5A0722A3:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C3:/5A072AB3:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C4:/5A0649E6:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C5:/5A07216A:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C6:/5A0621EE:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C7:/5A064D0D:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C8:/5A0717BE:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C9:/5A073D34:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C10:/5A07480A:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C11:/5A073321:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C13:/5A07925D:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “Y1:/5A0644EE:Solutions:IQD_HC49_XTAL”.
+
+Info: Checking netlist symbol footprint “C15:/5A0791BA:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C16:/5A073399:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “VFD1:/5A04E81E:Solutions:IVL2-7-5”.
+
+Info: Checking netlist symbol footprint “C17:/5A080FB1:Capacitors_THT:CP_Radial_D5.0mm_P2.00mm”.
+
+Info: Checking netlist symbol footprint “U8:/5A04E091:TO_SOT_Packages_SMD:SOT-23-5”.
+
+Info: Checking netlist symbol footprint “U5:/5A03AB62:Housings_SOIC:SO-20_12.8x7.5mm_Pitch1.27mm”.
+
+Info: Checking netlist symbol footprint “C18:/5A078AB7:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “C21:/5A09EB84:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “D1:/5A073B5F:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “D2:/5AD510A8:Capacitors_SMD:C_0603”.
+
+Info: Changing component path “U4:/5A0386CB” to “/5AD4ED0F”.
+
+Info: Changing component path “D2:/5A07AFE9” to “/5AD510A8”.
+
+Info: Checking netlist symbol footprint “U4:/5AD4ED0F:TO_SOT_Packages_SMD:SOT-23”.
+
+Info: Checking netlist symbol footprint “D3:/5A080969:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “U3:/5A03A397:SMD_Packages:SOIC-28”.
+
+Info: Checking netlist symbol footprint “J1:/5A076DD7:Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm”.
+
+Info: Checking netlist symbol footprint “J2:/5A04E172:Solutions:10118193_microUSB”.
+
+Info: Checking netlist symbol footprint “U2:/5A0513A7:TO_SOT_Packages_SMD:SOT-363_SC-70-6”.
+
+Info: Checking netlist symbol footprint “U1:/5A03A791:SMD_Packages:SOIC-8-N”.
+
+Info: Checking netlist symbol footprint “SW4:/5A08B7A0:Solutions:PTS810”.
+
+Info: Checking netlist symbol footprint “SW3:/5A073A0A:Solutions:C&K_OS102011MS2QN1”.
+
+Info: Checking netlist symbol footprint “SW2:/5A073A78:Solutions:PTS810”.
+
+Info: Checking netlist symbol footprint “SW1:/5A073B03:Solutions:PTS810”.
+
+Info: Checking netlist symbol footprint “R11:/5A073E79:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “J3:/5AD51382:Connectors:Barrel_Jack_CUI_PJ-102AH”.
+
+Info: Checking netlist symbol footprint “R10:/5A073CB0:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “Q1:/5A05E086:TO_SOT_Packages_SMD:SOT-23”.
+
+Info: Checking netlist symbol footprint “Q2:/5A0385D3:TO_SOT_Packages_SMD:SOT-23”.
+
+Info: Checking netlist symbol footprint “Q3:/5A062F32:TO_SOT_Packages_SMD:SOT-23”.
+
+Info: Checking netlist symbol footprint “Q4:/5A062F2C:TO_SOT_Packages_SMD:SOT-23”.
+
+Info: Checking netlist symbol footprint “R1:/5A064086:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R2:/5A0647AE:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R3:/5A06605B:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R4:/5A062248:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R5:/5A063C78:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R6:/5A063CCE:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R7:/5C7B733E:Capacitors_SMD:C_0603”.
+
+Info: Checking netlist symbol footprint “R9:/5A073C03:Capacitors_SMD:C_0603”.
+
+Info: Changing component path “R7:/5A08500A” to “/5C7B733E”.
+
+Info: Changing component path “R8:/5A0853B7” to “/5C7B7B7C”.
+
+Info: Checking netlist symbol footprint “R8:/5C7B7B7C:Capacitors_SMD:C_0603”.
+
+Changing footprint “R7:/5A08500A” pad “1” net name from “/BAT_SENS” to “Net-(J2-Pad3)”.
+
+Changing footprint “R8:/5A0853B7” value from “100K” to “22R”.
+
+Changing footprint “R7:/5A08500A” pad “2” net name from “/V_BAT” to “/D+”.
+
+Changing footprint “R8:/5A0853B7” pad “2” net name from “/BAT_SENS” to “/D-”.
+
+Changing footprint “R8:/5A0853B7” pad “1” net name from “GND” to “Net-(J2-Pad2)”.
+
+Changing footprint “R7:/5A08500A” value from “100K” to “22R”.
+
+Adding new symbol “J3:/5AD51382” footprint “Connectors:Barrel_Jack_CUI_PJ-102AH”.
+
+Clearing component “J2:/5A04E172” pin “11” net name.
+
+Clearing component “J2:/5A04E172” pin “8” net name.
+
+Replacing symbol “SW1:/5A073B03” footprint “OpenBCI:PTS810” with “Solutions:PTS810”.
+
+Changing footprint “J2:/5A04E172” pad “3” net name from “/D+” to “Net-(J2-Pad3)”.
+
+Replacing symbol “SW2:/5A073A78” footprint “OpenBCI:PTS810” with “Solutions:PTS810”.
+
+Changing footprint “J2:/5A04E172” pad “2” net name from “/D-” to “Net-(J2-Pad2)”.
+
+Replacing symbol “SW3:/5A073A0A” footprint “Solutions:PCM12SMTR” with “Solutions:C&K_OS102011MS2QN1”.
+
+Changing footprint “SW3:/5A073A0A” pad “2” net name from “/BAT_CHRG” to “+24V”.
+
+Changing footprint “SW3:/5A073A0A” pad “3” net name from “/BAT_CHRG” to “+24V”.
+
+Changing footprint “SW3:/5A073A0A” pad “1” net name from “/V_BAT” to “/V_IN”.
+
+Clearing component “SW3:/5A073A0A” pin “4” net name.
+
+Clearing component “SW3:/5A073A0A” pin “5” net name.
+
+Clearing component “SW3:/5A073A0A” pin “6” net name.
+
+Clearing component “SW3:/5A073A0A” pin “7” net name.
+
+Clearing component “J2:/5A04E172” pin “7” net name.
+
+Replacing symbol “SW4:/5A08B7A0” footprint “OpenBCI:PTS810” with “Solutions:PTS810”.
+
+Clearing component “J2:/5A04E172” pin “9” net name.
+
+Clearing component “J2:/5A04E172” pin “10” net name.
+
+Changing footprint “D3:/5A080969” pad “2” net name from “Net-(D3-Pad2)” to “Net-(C17-Pad1)”.
+
+Changing footprint “U3:/5A03A397” pad “25” net name from “/BAT_SENS” to “Net-(U3-Pad25)”.
+
+Changing footprint “D2:/5A07AFE9” pad “1” net name from “Net-(D2-Pad1)” to “+24V”.
+
+Replacing symbol “U4:/5A0386CB” footprint “TO_SOT_Packages_SMD:SOT-23-5” with “TO_SOT_Packages_SMD:SOT-23”.
+
+Changing footprint “U4:/5A0386CB” value from “MCP73831” to “TLV76033DBZR”.
+
+Changing footprint “D2:/5A07AFE9” value from “LED” to “500mA 30V”.
+
+Changing footprint “U4:/5A0386CB” pad “1” net name from “Net-(R12-Pad1)” to “+3V3”.
+
+Changing footprint “U4:/5A0386CB” pad “2” net name from “GND” to “/V_IN”.
+
+Changing footprint “U4:/5A0386CB” pad “3” net name from “/BAT_CHRG” to “GND”.
+
+Clearing component “U4:/5A0386CB” pin “4” net name.
+
+Clearing component “U4:/5A0386CB” pin “5” net name.
+
+Changing footprint “C17:/5A080FB1” pad “1” net name from “+24V” to “Net-(C17-Pad1)”.
+
+Replacing symbol “C17:/5A080FB1” footprint “Capacitors_SMD:C_0603” with “Capacitors_THT:CP_Radial_D5.0mm_P2.00mm”.
+
+Changing footprint “U8:/5A04E091” value from “MIC5317” to “TC1014-2.5VCT713”.
+
+Changing footprint “U8:/5A04E091” pad “1” net name from “/V_BAT” to “+3V3”.
+
+Changing footprint “C16:/5A073399” pad “1” net name from “/V_BAT” to “+3V3”.
+
+Changing footprint “C13:/5A07925D” pad “1” net name from “/V_BAT” to “/V_IN”.
+
+Removing unused footprint “REF**:”.
+
+Removing unused footprint “B1:/5A0780CF”.
+
+Removing unused footprint “C12:/5A07BEE7”.
+
+Removing unused footprint “C14:/5A073DC5”.
+
+Removing unused footprint “C19:/5A0810B0”.
+
+Removing unused footprint “R12:/5A07B0A9”.
+
+Removing unused footprint “R13:/5A07AEDF”.
+
+Removing unused footprint “R14:/5A0812A5”.
+
+Removing unused footprint “R15:/5A0811E8”.
+
+Removing unused footprint “U6:/5A078602”.
+
+Removing unused footprint “U7:/5A03A4EB”.
+
+Removing unused footprint “C20:/5A08A5CD”.
+
+Removing unused footprint “L1:/5A08028C”.
+
+Removing unused footprint “REF**:”.
+
