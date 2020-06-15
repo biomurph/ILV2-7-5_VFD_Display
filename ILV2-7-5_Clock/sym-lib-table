@@ -1,6 +1,5 @@
 (sym_lib_table
-  (lib (name ILV2-7-5_Clock-rescue)(type Legacy)(uri ${KIPRJMOD}/ILV2-7-5_Clock-rescue.lib)(options "")(descr ""))
-  (lib (name OpenBCI)(type Legacy)(uri /Users/joelmurphy/Documents/KiCad/library/OpenBCI.lib)(options "")(descr ""))
-  (lib (name Solutions1)(type Legacy)(uri /Users/joelmurphy/Documents/KiCad/library/Solutions.lib)(options "")(descr ""))
-  (lib (name Tympan1)(type Legacy)(uri /Users/joelmurphy/Documents/KiCad/library/Tympan.lib)(options "")(descr ""))
+  (lib (name ILV2-7-5_Clock-rescue)(type Legacy)(uri ${KIPRJMOD}/ILV2-7-5_Clock-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name ILV2-7-5_Clock)(type Legacy)(uri ${KIPRJMOD}/Library/ILV2-7-5_Clock.lib)(options "")(descr ""))
+  (lib (name Solutions)(type Legacy)(uri ${KIPRJMOD}/Library/Solutions.lib)(options "")(descr ""))
 )
